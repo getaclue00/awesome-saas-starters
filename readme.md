@@ -36,6 +36,7 @@
 - [https://serverless.page/](https://serverless.page/)
 - [https://mernkit.com/](https://mernkit.com/)
 - [https://github.com/async-labs/saas](https://github.com/async-labs/saas)
+- [https://github.com/sayahweb2-png/saas-starter-lite](https://github.com/sayahweb2-png/saas-starter-lite) - NestJS + Angular SaaS boilerplate with auth, Stripe, multi-tenancy (MIT)
 
 ## Python
 
