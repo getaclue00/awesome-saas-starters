@@ -41,6 +41,7 @@
 
 - [https://www.saaspegasus.com/](https://www.saaspegasus.com/)
 - [https://www.saasforge.dev/](https://www.saasforge.dev/)
+- [Stripe Micro SaaS Starter](https://github.com/cedendahlkim/stripe-micro-saas) — Single-file Flask template with Stripe Checkout, webhooks, and customer portal. Go from zero to payments in 5 minutes.
 
 ## Go
 
