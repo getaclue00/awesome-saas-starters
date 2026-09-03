@@ -25,6 +25,7 @@
 
 - [https://spark.laravel.com/](https://spark.laravel.com/)
 - [https://wave.devdojo.com/](https://wave.devdojo.com/)
+- [https://electrik.dev](https://electrik.dev)
 - [https://saasstarterkit.app/](https://saasstarterkit.app/)
 - [https://larakits.com/](https://larakits.com/)
 
