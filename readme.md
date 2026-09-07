@@ -36,6 +36,7 @@
 - [https://serverless.page/](https://serverless.page/)
 - [https://mernkit.com/](https://mernkit.com/)
 - [https://github.com/async-labs/saas](https://github.com/async-labs/saas)
+- [https://www.hype-stack.dev/](https://www.hype-stack.dev/)
 
 ## Python
 
