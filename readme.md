@@ -49,6 +49,7 @@
 ## ASPNET
 
 - [https://aspnetzero.com/](https://aspnetzero.com/)
+- [Mode VC Founder Capital & Equity Workbench](https://modevc.com/tools/) - 18 free browser-side startup calculators for founders: SAFE & option pool dilution, 409A strike price, ISO vs. NSO AMT tax, Venture Debt vs. Equity, ESOP grants, and LLM/GPU unit economics.
 
 ## Contribute
 
